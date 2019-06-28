@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "slide-shop": "/components/slide-shop",
+    "denglu": "/components/ah-denglu/denglu"
+  }
+}
